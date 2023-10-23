@@ -29,7 +29,10 @@ https://github.com/legendvi/mapty/blob/master/Mapty-flowchart.png
 
 ## Project Recording:
 
-https://github.com/legendvi/Food-Deliver-App/assets/41253273/77975204-890f-4bba-b7bb-dcd426cda097
+
+
+https://github.com/legendvi/mapty/assets/41253273/49b971df-b6d9-49cc-acf3-96c19b6f7625
+
 
 
 ## Installation and Setup Instructions:
